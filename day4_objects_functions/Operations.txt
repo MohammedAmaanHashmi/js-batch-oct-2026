@@ -1,0 +1,4 @@
+C – Create {}
+R – Using dot notation and bracket notation
+U – Using dot notation and bracket notation, then assign a new value
+D – Delete key or property

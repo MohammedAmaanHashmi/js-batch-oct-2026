@@ -1,0 +1,3 @@
+substring in string
+slice in string
+splice in string
