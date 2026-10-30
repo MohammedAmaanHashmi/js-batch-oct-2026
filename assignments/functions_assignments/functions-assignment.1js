@@ -1,0 +1,13 @@
+function calculateAverage(a, b, c) {
+  let result = (a + b + c) / 3;
+  console.log(result);
+}
+
+calculateAverage(10, 20, 30);
+
+function calculateSum(a, b, c) {
+  let result = a + b + c;
+  console.log(result);
+}
+
+calculateSum(10, 20, 30);
