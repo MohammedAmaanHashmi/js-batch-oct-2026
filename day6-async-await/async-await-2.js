@@ -1,9 +1,9 @@
+import fs from "fs/promises";
+
 console.log("Started");
 
-const response = await fetch("https://restful-booker.herokuapp.com/ping");
+const data = await fs.readFile("Sample.txt", "utf-8");
 
-Math.max();
-Math.min();
-console.log(response);
+console.log(data);
 
 console.log("End");
